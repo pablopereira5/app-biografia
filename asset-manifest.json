@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/app-biografia/static/css/main.d30576f3.css",
+    "main.js": "/app-biografia/static/js/main.a705d503.js",
+    "static/media/enzo5.png": "/app-biografia/static/media/enzo5.76cde0cd40c437fd5baa.png",
+    "static/media/angel11.png": "/app-biografia/static/media/angel11.cde7118a4fd2f2806435.png",
+    "static/media/messi10.png": "/app-biografia/static/media/messi10.2deb0a00755cd75da678.png",
+    "static/media/logo.svg": "/app-biografia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/app-biografia/index.html",
+    "main.d30576f3.css.map": "/app-biografia/static/css/main.d30576f3.css.map",
+    "main.a705d503.js.map": "/app-biografia/static/js/main.a705d503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30576f3.css",
+    "static/js/main.a705d503.js"
+  ]
+}
