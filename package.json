@@ -1,5 +1,4 @@
 {
-  "homepage": "https://pablopereira5.github.io/app-biografia/",
   "name": "app-biografia",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +39,8 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  
+    "homepage": "https://pablopereira5.github.io/app-biografia/"
+  
 }
